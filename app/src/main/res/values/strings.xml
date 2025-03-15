@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Project MPTI</string>
+    <string name="tambah">Tambah</string>
+    <string name="lihat_daftar_akun">Lihat Daftar Akun</string>
 </resources>
